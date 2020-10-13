@@ -1,2 +1,2 @@
 # The Streamliners
- Contains all tasks and assignments of learning android dev
+This Repository contains all the tasks and assignments I have completed under learning Android Development
