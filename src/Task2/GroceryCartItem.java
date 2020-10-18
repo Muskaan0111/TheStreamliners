@@ -16,18 +16,37 @@ public class GroceryCartItem extends GroceryItem {
 
     static float extractQuantity(String quantityStr){
 
-        String[] s1= quantityStr.split(" ");
-        //System.out.println(s1[0]);
-        String s2= s1[0].replace("Kg","");
-        String s3=s1[1].replace("g","");
-        System.out.println(s2);
-        int x=Integer.parseInt(s2);
-        int y=Integer.parseInt(s3);
-        float f =  ((float)(x*1000)+y)/1000;
+//        String[] s1= quantityStr.split(" ");
+//        //System.out.println(s1[0]);
+//        String s2= s1[0].replace("Kg","");
+//        String s3=s1[1].replace("g","");
+//        System.out.println(s2);
+//        int x=Integer.parseInt(s2);
+//        int y=Integer.parseInt(s3);
+//        float f =  ((float)(x*1000)+y)/1000;
 
-        return f;
+        quantityStr=quantityStr.replace("Kg ",".")
+                .replace("Kg",".")
+                .replace("g","");
+
+        int index=quantityStr.indexOf(".");
 
 
+        if(quantityStr.length()<3&&index==-1){
+
+            if(quantityStr.length()==1){
+                quantityStr = ".00" + quantityStr;
+            }
+            else {
+                quantityStr = ".0" + quantityStr;
+            }
+            System.out.println(quantityStr);
+
+
+        }
+
+
+        return Float.parseFloat(quantityStr);
 
     }
     static GroceryCartItem createNew(GroceryItem item , String quantityStr){
