@@ -1,10 +1,12 @@
 # Android Development
 
-This folder contains , all the projects which I developed under leaning **Android Development** .
+Projects , I developed under leaning **Android Development** 
+
+<img title="" src="https://developer.android.com/images/social/android-developers.png" alt=" " width="316" data-align="right">
 
 
 
-Check **them** out here  
+Check **them** out here : 
 
 - [CoffeeTime ](https://github.com/Muskaan0111/CoffeeTime)
 
