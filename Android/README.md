@@ -8,7 +8,9 @@ Projects , I developed under **Android Development**
 
 Check **them** out here : 
 
-- [CoffeeTime ](https://github.com/Muskaan0111/CoffeeTime)
+- [CoffeeTime ](https://github.com/Muskaan0111/CoffeeTime) Order some Coffee (**slurp coffee**)
+
+- [Two Activities ](https://github.com/Muskaan0111/Two-Activities)Learn About Intents
 
 
 
