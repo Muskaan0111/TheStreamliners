@@ -4,12 +4,12 @@ This Repository contains all the tasks and assignments I have completed under le
  **Have a Look** &#8595;
  
    
-   [**src**](https://github.com/Muskaan0111/TheStreamliners/tree/master/src) A folder for all the java classes , I will create.
+   [**src**](https://github.com/Muskaan0111/TheStreamliners/tree/master/src) Java **classes** 
    
    
-   [**Android**](https://github.com/Muskaan0111/TheStreamliners/tree/master/Android/CoffeeTimeJust_Java) A folder for all my android applications.
+   [**Android**](https://github.com/Muskaan0111/TheStreamliners/tree/master/Android) My **android** applications
    
    
-   [**Codelabs**](https://github.com/Muskaan0111/TheStreamliners/tree/master/Codelabs/TwoActivity) A folder for all my codelabs.
+   [**Codelabs**](https://github.com/Muskaan0111/TheStreamliners/tree/master/Codelabs/TwoActivity) My **codelabs**
 
  
