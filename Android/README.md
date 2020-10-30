@@ -1,6 +1,6 @@
 # Android Development
 
-Projects , I developed under leaning **Android Development** 
+Projects , I developed under **Android Development** 
 
 <img title="" src="https://developer.android.com/images/social/android-developers.png" alt=" " width="316" data-align="right">
 
